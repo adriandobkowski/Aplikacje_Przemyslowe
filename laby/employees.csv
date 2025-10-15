@@ -1,0 +1,8 @@
+firstName,lastName,email,company,position,salary
+Jan,Kowalski,jan.kowalski@example.com,Google,DEVELOPER,10000
+Anna,Nowak,anna.nowak@example.com,Microsoft,MANAGER,15000
+Piotr,Zieliński,piotr.zielinski@example.com,Google,TESTER,8000
+Marta,Wiśniewska,marta.wisniewska@example.com,Amazon,HR,9000
+,,empty@example.com,Facebook,CEO,20000
+Tomasz,Wójcik,tomasz.wojcik@example.com,Netflix,INVALID_POSITION,7000
+Katarzyna,Kowalczyk,katarzyna.kowalczyk@example.com,Google,DEVELOPER,-5000
